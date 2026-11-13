@@ -46,7 +46,7 @@ class PortfolioApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'Jayaprakash | Mobile Application Developer',
+      title: 'JAYAPRAKASH S | Mobile Application Developer',
       debugShowCheckedModeBanner: false,
       theme: base,
       home: const PortfolioPage(),
