@@ -1,7 +1,7 @@
 .dart_tool/
 .packages
 .pub/
-build/
+#build/
 .flutter-plugins
 .flutter-plugins-dependencies
 .DS_Store
